@@ -1,0 +1,1 @@
+print("{:=^60}".format(" Lojas Monteiro "))
